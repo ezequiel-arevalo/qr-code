@@ -1,2 +1,3 @@
 # qr-code
-Cear una tarjeta de un codigo QR responsive con HTML y CSS, replicando el diseño.
+
+Create a responsive card that includes a QR code
